@@ -1,5 +1,9 @@
 require "mini_test_practice/version"
 
 module MiniTestPractice
-  # Your code goes here...
+  class Main
+    def odd?(n)
+       return false
+    end
+  end
 end
